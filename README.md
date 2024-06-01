@@ -74,6 +74,12 @@ layman -fa fol4    (or eselect repository enable fol4)
 emerge -av intellimouse-ctl
 ```
 
+### Arch Linux
+Use your favourite AUR helper and install python-intellimouse-ctl-git
+```bash
+yay python-intellimouse-ctl-git
+```
+
 ## Development
 To set up a virtual environment to further develop this tool/library, use the following commands:
 ```bash
